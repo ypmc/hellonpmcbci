@@ -1,0 +1,23 @@
+{
+  "name": "hellonpmcbci",
+  "version": "0.0.1",
+  "description": "First npm module @CBCI",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypmc/hellonpmcbci.git"
+  },
+  "keywords": [
+    "npm",
+    "CBCI"
+  ],
+  "author": "kangkang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypmc/hellonpmcbci/issues"
+  },
+  "homepage": "https://github.com/ypmc/hellonpmcbci#readme"
+}
